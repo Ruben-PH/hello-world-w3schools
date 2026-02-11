@@ -5,3 +5,5 @@ this tutorial focuses mainly on git and uses github as its remote
 
 This reposoritory is built step by step in this tutorial
 It now includes steps for github
+
+Exmaple of editing a branch local then merge remote
